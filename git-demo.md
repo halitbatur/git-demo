@@ -7,3 +7,9 @@
 
 - Javascript Conditions
 - Javascript Loops
+
+# Day 3 of Coding
+
+- Javascript Functions
+- Javascript Arrays
+- Javascript Objects
