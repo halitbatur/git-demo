@@ -2,3 +2,8 @@
 
 - Git & Github
 - PesudoCode
+
+# Day 2 of coding
+
+- Javascript Conditions
+- Javascript Loops
